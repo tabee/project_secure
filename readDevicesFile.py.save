@@ -1,0 +1,16 @@
+f = open('devices.txt')
+for line in iter(f):
+
+
+	if s.find("is") == -1:
+   		 print "No 'is' here!"
+else:
+    print "Found 'is' in the string."
+
+
+
+
+
+
+    print line
+f.close()

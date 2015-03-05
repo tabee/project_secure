@@ -1,0 +1,12 @@
+Interface: wlan0, datalink type: EN10MB (Ethernet)
+Starting arp-scan 1.8.1 with 256 hosts (http://www.nta-monitor.com/tools/arp-scan/)
+192.168.1.1	64:87:d7:2b:14:d3	PIRELLI BROADBAND SOLUTIONS 
+192.168.1.108	fc:aa:14:91:1c:89	(Unknown)
+192.168.1.112	30:85:a9:95:9f:24	(Unknown)
+192.168.1.106	04:54:53:35:8b:e4	(Unknown)
+192.168.1.104	2c:29:97:8e:8d:bc	(Unknown)
+192.168.1.102	d0:73:d5:01:10:46	(Unknown)
+192.168.1.111	d0:73:d5:01:39:fb	(Unknown)
+
+7 packets received by filter, 0 packets dropped by kernel
+Ending arp-scan 1.8.1: 256 hosts scanned in 3.558 seconds (71.95 hosts/sec). 7 responded
